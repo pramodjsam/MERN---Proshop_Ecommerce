@@ -1,4 +1,4 @@
-# Proshop Ecommerce
+# Proshop E-commerce
 An Ecommerce application developed using MERN stack
 
 ---
