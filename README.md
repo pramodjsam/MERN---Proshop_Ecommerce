@@ -11,4 +11,4 @@ An Ecommerce application developed using MERN stack
 ---
 
 ## Finished Website
-The link for the finished website is - [Click Here](https://react-quiz-app-project2.netlify.app/)
+The link for the finished website is - [Click Here](https://berry-bush-platypus.glitch.me/)
