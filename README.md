@@ -82,12 +82,12 @@ Admins can view the orders made by users.
 ![orders](./screenshots/Screenshot-11.png "orders")
 
 ##### DropDown Options (Admin Only)
-Dropdown options available to admins.
-![dropadmins](./screenshots/Screenshot-12.png "dropadmin")
+- Dropdown options available to admins.
+- ![dropadmins](./screenshots/Screenshot-12.png "dropadmin")
 
 ##### DropDown Options (User Only)
-Dropdown options available to users.
-![dropuser](./screenshots/Screenshot-14.png "dropuser")
+- Dropdown options available to users.
+- ![dropuser](./screenshots/Screenshot-14.png "dropuser")
 
 ##### User View
 Webpage when viewed by a user. (Only difference is in the navigation bar)
